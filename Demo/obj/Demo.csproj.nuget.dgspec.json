@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/storage/projects/Cryptography/Demo/Demo.csproj": {}
+  },
+  "projects": {
+    "/mnt/storage/projects/Cryptography/CryptographyTool/CryptographyTool.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/storage/projects/Cryptography/CryptographyTool/CryptographyTool.csproj",
+        "projectName": "CryptographyTool",
+        "projectPath": "/mnt/storage/projects/Cryptography/CryptographyTool/CryptographyTool.csproj",
+        "packagesPath": "/home/quemuel/.nuget/packages/",
+        "outputPath": "/mnt/storage/projects/Cryptography/CryptographyTool/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/quemuel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.0, 6.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/mnt/storage/projects/Cryptography/Demo/Demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/storage/projects/Cryptography/Demo/Demo.csproj",
+        "projectName": "Demo",
+        "projectPath": "/mnt/storage/projects/Cryptography/Demo/Demo.csproj",
+        "packagesPath": "/home/quemuel/.nuget/packages/",
+        "outputPath": "/mnt/storage/projects/Cryptography/Demo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/quemuel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/mnt/storage/projects/Cryptography/CryptographyTool/CryptographyTool.csproj": {
+                "projectPath": "/mnt/storage/projects/Cryptography/CryptographyTool/CryptographyTool.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.0, 6.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

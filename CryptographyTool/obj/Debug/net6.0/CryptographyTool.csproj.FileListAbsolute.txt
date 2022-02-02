@@ -1,0 +1,12 @@
+/mnt/storage/projects/Cryptography/CryptographyTool/bin/Debug/net6.0/CryptographyTool.deps.json
+/mnt/storage/projects/Cryptography/CryptographyTool/bin/Debug/net6.0/CryptographyTool.dll
+/mnt/storage/projects/Cryptography/CryptographyTool/bin/Debug/net6.0/ref/CryptographyTool.dll
+/mnt/storage/projects/Cryptography/CryptographyTool/bin/Debug/net6.0/CryptographyTool.pdb
+/mnt/storage/projects/Cryptography/CryptographyTool/obj/Debug/net6.0/CryptographyTool.csproj.AssemblyReference.cache
+/mnt/storage/projects/Cryptography/CryptographyTool/obj/Debug/net6.0/CryptographyTool.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/storage/projects/Cryptography/CryptographyTool/obj/Debug/net6.0/CryptographyTool.AssemblyInfoInputs.cache
+/mnt/storage/projects/Cryptography/CryptographyTool/obj/Debug/net6.0/CryptographyTool.AssemblyInfo.cs
+/mnt/storage/projects/Cryptography/CryptographyTool/obj/Debug/net6.0/CryptographyTool.csproj.CoreCompileInputs.cache
+/mnt/storage/projects/Cryptography/CryptographyTool/obj/Debug/net6.0/CryptographyTool.dll
+/mnt/storage/projects/Cryptography/CryptographyTool/obj/Debug/net6.0/ref/CryptographyTool.dll
+/mnt/storage/projects/Cryptography/CryptographyTool/obj/Debug/net6.0/CryptographyTool.pdb

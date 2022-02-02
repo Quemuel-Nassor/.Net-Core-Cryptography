@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x5lTXxEEvmCJAL/a0qQIhN6klGWGmd+OmQeGhQJDrDwDM7bjNC9hWq8e6HAshTSoid+IbiWc7W5c7pVWOZ2QCg==",
+  "success": true,
+  "projectFilePath": "/mnt/storage/projects/Cryptography/Demo/Demo.csproj",
+  "expectedPackageFiles": [
+    "/home/quemuel/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
